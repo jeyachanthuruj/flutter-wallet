@@ -7,6 +7,6 @@ Simple Credit card animation from Dribbble https://dribbble.com/shots/6725201-Sm
 
 
 ## Screenshot and Video
-- [Youtube Video](https://dribbble.com/alexplyuto) 
+- [Youtube Video](https://youtu.be/Qxkb8ZHDcbw) 
 - ![Screenshot A](/resources/wallet-1.png?raw=true "Screenshot A")
 - ![Screenshot B](/resources/wallet-2.png?raw=true "Screenshot B")
